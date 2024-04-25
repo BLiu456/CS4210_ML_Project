@@ -1,0 +1,13 @@
+Los Angeles County,California January-December Average Temperature,
+Units: Degrees Fahrenheit,,
+Base Period: 2015-2022,,
+Missing: -99,,
+Date,Annual_Avg_Temperature,Anomaly_Temperature
+2015,64.1,0.7
+2016,63.7,0.3
+2017,64.1,0.7
+2018,63.5,0.1
+2019,61.1,-2.3
+2020,63.2,-0.2
+2021,63.3,-0.1
+2022,63.8,0.4

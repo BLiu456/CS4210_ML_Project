@@ -1,0 +1,13 @@
+Los Angeles County,California January-December Precipitation,
+Units: Inches,,
+Base Period: 2015-2022,,
+Missing: -99,,
+Date,Annual_Rainfall,Anomaly_Rainfall
+2015,7.11,-5.13
+2016,12.59,0.35
+2017,13.69,1.45
+2018,10.79,-1.45
+2019,23.4,11.16
+2020,10.89,-1.35
+2021,11.79,-0.45
+2022,7.64,-4.6
